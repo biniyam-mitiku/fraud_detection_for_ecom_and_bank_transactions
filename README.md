@@ -185,4 +185,4 @@ These issues were found during modeling and are documented rather than hidden.
 **Biniyam Mitiku**
 Information Science Student | Addis Ababa University
 
-GitHub: [@Avicci-b](https://github.com/Avicci-b)
+GitHub: [@Avicci-b](https://github.com/biniyam-mitiku)
